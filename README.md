@@ -2,4 +2,7 @@
 一款完全免费的效率工具，提供网页信息标注、pdf信息标注、思维导图整理、卡片记忆等功能，能够高效利用日常阅读笔记数据，有序的构建知识和想法，完善个人的知识体系。 [官方网站](http://www.duitasiwei.com/ "官方网站"). 
 
 # 首页界面
-![images](https://github.com/duitasiwei/duitasiwei/blob/master/timg.jpg)
+![images](https://github.com/duitasiwei/duitasiwei/blob/master/%E5%A0%86%E5%A1%94%E6%80%9D%E7%BB%B4%E9%A6%96%E9%A1%B5.jpg)
+
+# 脑图操作页面
+![images](https://github.com/duitasiwei/duitasiwei/blob/master/%E8%84%91%E5%9B%BE%E6%93%8D%E4%BD%9C.jpg)
