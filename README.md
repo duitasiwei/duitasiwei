@@ -16,7 +16,7 @@
 ![images](https://github.com/duitasiwei/duitasiwei/blob/master/%E8%84%91%E5%9B%BE%E6%93%8D%E4%BD%9C.jpg)
 
 # 脑图管理界面
-![images](https://github.com/duitasiwei/duitasiwei/blob/master/%E8%84%91%E5%9B%BE%E6%93%8D%E4%BD%9C.jpg)
+![images](https://github.com/duitasiwei/duitasiwei/blob/master/%E8%84%91%E5%9B%BE%E7%AE%A1%E7%90%86.png)
 
 # 卡片管理界面
 ![images](https://github.com/duitasiwei/duitasiwei/blob/master/%E7%9F%A5%E8%AF%86%E5%8D%A1%E7%89%87%E7%AE%A1%E7%90%86.png)
